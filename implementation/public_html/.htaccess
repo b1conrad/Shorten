@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteCond "%{HTTP_HOST}" "^bruceatbyu[.]" [NC]
+
+RewriteRule ^s/db-book/?$ http://db-book.com [NC,L]
+RewriteRule ^s/([a-zA-Z0-9]{1,11})/?$ /cgi-bin/s.cgi?id=$1 [NC,L]
+
