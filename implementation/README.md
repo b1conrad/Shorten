@@ -1,4 +1,4 @@
-The implementation of the MVP for Shorten consists of three files
+The implementation of an MVP for Shorten consists of three files
 
 * UX (provided by the user-agent, i.e. a browser)
 * buisness logic

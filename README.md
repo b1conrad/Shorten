@@ -1,4 +1,5 @@
 # Shorten
-Sample project: URL shortener
+URL shortener
 
-Please consider joining [my project](https://byucs452f2019.github.io/Shorten/pitch.html).
+Using only Apache configuration and one CGI script written in Bash shell.
+
